@@ -1,0 +1,17 @@
+<resources>
+    <string name="pfechaNacimiento">24/11/2010</string>
+    <string name="pnombre">Mauro Alsina</string>
+    <string name="ptelefono">092790049</string>
+    <string name="pemail">mmaauurooo@gmail.com</string>
+    <string name="pdescripcion">Mauro HDP </string>
+    <string name="fechaNacimiento">fechaNacimiento</string>
+    <string name="nombre">nombre</string>
+    <string name="telefono">telefono</string>
+    <string name="email">email</string>
+    <string name="descripcion">descripcion</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+    <string name="nacimiento">Nacimiento :</string>
+    <string name="tel">Tel :</string>
+    <string name="editar_datos">Editar Datos</string>
+
+</resources>
